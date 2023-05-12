@@ -6,4 +6,5 @@
  *
  */
 module CursoPortugal {
+	requires java.sql;
 }
